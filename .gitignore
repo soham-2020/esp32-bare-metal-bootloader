@@ -1,0 +1,12 @@
+# Build artifacts
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Temp files
+probe_reset.py
+*.log
+bootloader_presentation.pptx
+generate_pptx.py
